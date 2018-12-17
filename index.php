@@ -1,6 +1,3 @@
-<?php
-    session_start();
-?>
 <!DOCTYPE html>
 <html>
 
@@ -11,10 +8,15 @@
 	<meta name="keywords" content="słowa kluczowe">
 	<meta name="author" content="autor">
 	<link rel="icon" type="image/x-icon" href="favicon.ico">
-	<link rel="stylesheet" href="/style/style.css">
+	<link rel="stylesheet" href="style/style.css">
 </head>
 
 <body>
+	<div class="main">
+
+
+
+	</div>
 
 </body>
 
